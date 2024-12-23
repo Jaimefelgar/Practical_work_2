@@ -4,3 +4,4 @@ this is a repository of a webpage about myself.
 
 ## Actions
 
+- added the index structure and the README file.
