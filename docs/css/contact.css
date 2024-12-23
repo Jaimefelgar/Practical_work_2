@@ -79,13 +79,21 @@ nav a.active {
 }
 
 .content {
-    height: 3500px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: left;
     align-items: left;
     background-color: #f5f5f5;
 }
+.paragraph {
+    margin: 100px;
+    font-family: Arial, sans-serif;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
 
 .menu {
     background-color: #180372;
