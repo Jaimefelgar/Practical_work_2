@@ -8,3 +8,4 @@ this is a repository of a webpage about myself.
 - added the topic css and finished the topic webpage content, and images added.
 - added the degree css and fce css, and finifhed the degree and fce page.
 - added contact css and finished contact page.
+- added About me css and finished About me page.
