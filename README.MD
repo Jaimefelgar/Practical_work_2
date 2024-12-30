@@ -13,12 +13,12 @@ this is a repository of a webpage about myself.
 - Fixing problems
 - Added webpages in net page
 
-# DDD
+# Design Detailed Document
 
-# Description
+## Description
 - in this webpage im going to talk about different things: first theres is a research about the ethical hacking, in the next page i talk about me, in the third page i talk a little about my degree and the subjects of the degree, in the fourth there is a contact page and in the last one other webpages of some partners.
 
-# problems during the development
+## problems during the development
 
 - during the development of the webpage i didn't have any major problem except a little problem with the links to the other pages of the webpage.
 
