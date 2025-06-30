@@ -11,7 +11,7 @@
         <meta name="author" content="" />
 
         <title>Fundamentals of Computer Engineering</title>
-        <link rel="stylesheet" href="../css/contact.css">
+        <link rel="stylesheet" href="../css/Style.css">
 
 
     </head>
@@ -21,19 +21,27 @@
                 <div class="header-title">contact</div>
                 <nav>
                     <a href="../index.html" class="active">Home</a>
+                    <a href="./topic.html" class="active">Topic</a>
+                    <a href="./about.html" class="active">About me</a>
+                    <a href="./degree.html" class="active">Degree</a>
+                    <a href="./contact.html" class="active">Contact</a>
+                    <a href="./net.html" class="active">Other Pages</a>
                 </nav>
             </div>
         </header>
         <main class="container">
-            <div class="content">
+            <div class="content small">
                 <div class="paragraph">
                     <h1>Contact</h1>
-                    <br>
-                    <br>
-                    <P1>if you have any issue you can contact me through the next Email: jafelgar06@gmail.com  </p1>
-                    <br>
-                    
-                    <img src="../images/mail.png" width="400" height="300">
+                    <form>
+                        <label for="name">Name:</label><br>
+                        <input type="text" id="name" name="name" required><br>
+                        <label for="email">Email:</label><br>
+                        <input type="email" id="email" name="email" required><br>
+                        <label for="message">Message:</label><br>
+                        <textarea id="message" name="message" rows="5" required></textarea><br>
+
+                    </form>
                 </div> 
             </div>
             <div class="menu">  
