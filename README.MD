@@ -16,7 +16,7 @@ this is a repository of a webpage about myself.
 # Design Detailed Document
 
 ## Description
-- in this webpage im going to talk about different things: first theres is a research about the ethical hacking, in the next page i talk about me, in the third page i talk a little about my degree and the subjects of the degree, in the fourth there is a contact page and in the last one other webpages of some partners.
+- this is a webpage where i talk about my self a topic and i explain things about my degree. First of all ones you start the webpage you find an index page linked with the othes to see the structure of the pages, there is also a vertical menu up for an easy navigation. The first page is for talking about a topic in this case i talk about ethichal hacking. In the Second page i talk about me, there is also my CV and a link to my github. The third page i talk about my degree showing the subject, the type of subjec and the credits, there is also a page dedicated for FCE. The fourth page is a contact page to write me a message. The last page you have some links to pages of other classmates.
 
 ## problems during the development
 
